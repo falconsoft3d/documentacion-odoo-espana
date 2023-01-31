@@ -15,4 +15,4 @@ Marlon Falcón Hernández | España | Valencia
 ```
 
 # Videos de Odoo España
--  C01 - Introducción a Creditpro, módulo de gestión de créditos Odoo 16. (https://youtu.be/WNNtHjlV6lA)
+* Secuencias de facturas   company_working_year, journal_sequences, Journal Sequences without spaces, journal_sequences_without_spaces_with_company_working_year (https://drive.google.com/file/d/1XHkLLe-R7m5AUtj1pdRf5X9uAkfuEqJF/view?usp=share_link, https://drive.google.com/file/d/1__kZbXz-27kDoPFurASCidEWVPz3XyK1/view?usp=share_link,  https://drive.google.com/file/d/1i-jo0MPeWZT3L6XZH06EC5f_sy7_U9dy/view?usp=share_link)
