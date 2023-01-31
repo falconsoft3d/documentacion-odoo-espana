@@ -1,14 +1,6 @@
 # Módulos España
 Módulos de localización de españa
 
----
-
-![Alt text](https://github.com/falconsoft3d/documentacion-odoo-credito/blob/main/creditpro.png?raw=true "BIM 20")
-
-# Funciones actuales.
-- 
-
-
 # Web
 Link: https://www.marlofalcon.com
 
